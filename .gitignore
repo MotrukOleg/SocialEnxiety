@@ -1,0 +1,12 @@
+.idea
+cleaned_enhanced_anxiety_dataset.csv
+final_cleaned.csv
+final_data.csv
+final_data_2.csv
+final_data_cnn.csv
+model_selection_oleh.ipynb
+new.csv
+new2.csv
+optuna.ipynb
+selected_error_rows.csv
+selected_error_rows_by_index.csv
