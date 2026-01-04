@@ -10,3 +10,6 @@ new2.csv
 optuna.ipynb
 selected_error_rows.csv
 selected_error_rows_by_index.csv
+test_data_decodec.csv
+train_data_decodec.csv
+errod.csv
